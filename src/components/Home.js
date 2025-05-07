@@ -4,7 +4,7 @@ import NavigationButton from "../core/NavigationButton";
 const Home = () => {
   const navSections = [
     {
-      title: "JavaScript Task",
+      title: "JavaScript Tasks",
       items: [
         {
           to: "/async-scheduler",
